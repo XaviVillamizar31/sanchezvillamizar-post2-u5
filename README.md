@@ -1,13 +1,23 @@
-Catálogo de Productos con Carrito
+## Catálogo de Productos con Carrito
 Programación Web — Unidad 5: Fundamentos de Java Web (Servlets y JSP)
+Universidad Internacional de Santander (UDES) — Ingeniería de Sistemas 2026
+
+## Descripción
+Aplicación Java Web completa que integra Servlets, JSP con JSTL y Expression Language, recursos estáticos (CSS) y gestión de sesión. Implementa un catálogo de productos con búsqueda por nombre, filtrado por categoría y un carrito de compras simple almacenado en sesión. La aplicación tiene tres vistas: catálogo, carrito y confirmación de pedido.
+
+## Prerrequisitos
+Java Development Kit (JDK) 17 o superior
+Apache Tomcat 10.x
+IntelliJ IDEA
+Maven 3.8+
+Navegador web moderno (Chrome, Firefox)
 
 ## Instrucciones de ejecución
-
-1. Clonar el repositorio y abrir en IntelliJ
-2. Ejecutar mvn clean package en la terminal
-3. Configurar Tomcat: Run → Edit Configurations → + → Tomcat Server → Local
-4. En Deployment agregar el artefacto .war exploded
-5. Ejecutar y abrir http://localhost:8080/catalogo-web/catalogo
+Clonar el repositorio y abrir en IntelliJ
+Ejecutar mvn clean package en la terminal
+Configurar Tomcat: Run → Edit Configurations → + → Tomcat Server → Local
+En Deployment agregar el artefacto .war exploded
+Ejecutar y abrir http://localhost:8080/catalogo-web/catalogo
 
 ## Capturas de Pantalla
 Lista del Catalogo
