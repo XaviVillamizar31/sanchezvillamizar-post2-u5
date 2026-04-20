@@ -1,6 +1,6 @@
 ## Catálogo de Productos con Carrito
 Programación Web — Unidad 5: Fundamentos de Java Web (Servlets y JSP)
-Universidad Internacional de Santander (UDES) — Ingeniería de Sistemas 2026
+Universidad de Santander (UDES) — Ingeniería de Sistemas 2026
 
 ## Descripción
 Aplicación Java Web completa que integra Servlets, JSP con JSTL y Expression Language, recursos estáticos (CSS) y gestión de sesión. Implementa un catálogo de productos con búsqueda por nombre, filtrado por categoría y un carrito de compras simple almacenado en sesión. La aplicación tiene tres vistas: catálogo, carrito y confirmación de pedido.
